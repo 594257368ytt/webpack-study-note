@@ -1,0 +1,8 @@
+.box {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  /* background-color: brown; */
+  background-image: url(../images/1.jpg);
+  background-size: cover;
+}

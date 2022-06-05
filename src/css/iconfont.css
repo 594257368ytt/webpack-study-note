@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 3436824 */
+  src: url('../fonts/iconfont.woff2?t=1653827519982') format('woff2'),
+    url('../fonts/iconfont.woff?t=1653827519982') format('woff'),
+    url('../fonts/iconfont.ttf?t=1653827519982') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-WIFI:before {
+  content: '\e76c';
+}
+
+.icon-gift:before {
+  content: '\e771';
+}
+
+.icon-chart-line:before {
+  content: '\e790';
+}
+
+.icon-headset-fill:before {
+  content: '\e7c9';
+}
+
+.icon-wind-cry:before {
+  content: '\e7f8';
+}
